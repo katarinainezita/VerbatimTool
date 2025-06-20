@@ -3,7 +3,7 @@ vaderSentiment
 pandas
 matplotlib
 plotly
-gensim
+gensim==4.2.0
 nltk
 spacy
 textblob
