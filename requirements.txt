@@ -15,3 +15,4 @@ pyobject
 torch
 pyproject.toml
 mtranslate
+scipy==1.10.1
